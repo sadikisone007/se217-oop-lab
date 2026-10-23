@@ -1,4 +1,4 @@
-public class Lec05_IfElse {
+public class IfElse {
     public static void main(String[] args) {
         int marks = 85;
 
